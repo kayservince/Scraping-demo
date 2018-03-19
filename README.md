@@ -1,2 +1,2 @@
 # Scapping-demo
- Scrapping demo with BeautifoulSoup and request library in Python
+ Scrapping demo with BeautifoulSoup and requests library in Python, a stocks index example
